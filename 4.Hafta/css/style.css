@@ -1,0 +1,96 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+#paragraf1 {
+    color: bisque;
+}
+
+.paragraf1 {
+    color: aqua;
+
+} 
+
+div {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    padding: 100px,50px,54px,20px ;
+   border: 5px, solid, red;
+}
+
+.kutu2 {
+    border-color: blueviolet;
+    border-style: dotted;
+    border-radius: 10px;
+    border: 10px double;
+}
+
+
+.kutu3 {
+    width: 800px;
+    border: 5px solid black;
+    margin:50px auto
+
+    
+}
+
+.kutu4{
+    width: 75% ;
+    margin: auto;
+}
+
+
+#personel {
+    width: 100%;
+    border-collapse: collapse;
+    padding: 10px;
+    border: 10px red solid;
+   
+}
+
+#personel td{
+    font-size: 20px;
+}
+
+#personel th, #personel td{
+    border: black, solid;
+    padding: 10px;
+
+} 
+
+input[type=text], select{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    border-radius:5px ;
+    border: 1px solid;
+    font-size: 20px;
+    
+   
+    
+
+}
+
+input[type=submit] {
+    width: auto;
+    background-color: rgb(47, 254, 0);
+    font-family: sans-serif;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+input[type=submit]:hover{
+    background-color: red;
+
+}
+
+#formkutu{
+    width: 80%;
+    margin: auto;
+}

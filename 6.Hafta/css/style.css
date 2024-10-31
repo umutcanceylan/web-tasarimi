@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(../images/enust-arka.png);
+    width: 100%;
+    height: 110px;
+    padding-top: 0px;
+    margin: 0px;
+}
+
+.ortala {
+    margin: 0px auto;
+    height: auto;
+    width: 985px;
+}
+
+.logo {
+    float: left;
+    height: 28px;
+    width: 166px;
+    margin-top: 60px;
+
+}
+
+nav {
+    background-color: #f00;
+    float:left;
+    height: 40px;
+    width: 100%;
+}
+
+#menu {
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu ul li {
+    list-style-type: none;
+    float: left;
+    color: #fff;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin-right: 40px;
+}
+
+
+article {
+    background-image: url(../images/orta-arka.jpg);
+    float: left;
+    height: auto;
+    width: 100%;
+}
+
+#duyurular {
+    background-image: url(../images/duyuru_box_bg.png);
+    height: 101px;
+    width: 985px;
+    margin-top: 20px;
+    float: left;
+}
+
+#duyurubaslik {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #336;
+    float: left;
+    height: auto;
+    width: 100%;
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+#aciklama {
+    float: left;
+    height: auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#madde {
+    background-image: url(../images/duyuru_icon.png);
+    float: left;
+    height: 10px;
+    width: 6px;
+    margin: 10px;
+}
+
+#haber {
+    margin: 5px;
+    height: auto;
+    width: auto;
+    font-size: 16px;
+    
+}
+
+#icerikler {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    margin-top: 10px;
+    padding: 0px;
+}
+
+.icerik {
+    width:480px ;
+    height: 268px;
+    float: left;
+    margin: 12px 12px 12px 0px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.baslik {
+    font-size: 16px;
+    height: auto;
+    width: auto;
+    margin: 10px;
+    color: #336;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.metin {
+    font-size: 14px;
+    height: auto;
+    width: auto;
+    margin: 10px;
+    color: #336;
+  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer {
+    width: 100%;
+    height: 110px;
+    float: left;
+    background-image: url(../images/enust-arka.png);
+}
+
+#footermetin {
+    float: right;
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #336;
+    margin: 10px;
+    margin-top: 30px;
+}

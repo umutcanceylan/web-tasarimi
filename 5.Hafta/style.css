@@ -1,0 +1,204 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    height: 120px;
+    background-color: cadetblue;
+    padding-top: 20px;
+
+}
+
+.ortala {
+    width: 75%;
+    margin: auto;
+    height: auto;
+}
+
+#baslik {
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+
+#baslik a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#baslik p{
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    
+    width: 70%;
+    height: 100px;
+    float: left;
+}
+
+nav ul{
+    list-style:none;
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+    
+}
+nav ul li {
+    float: left;
+    padding: 0px 20px;
+    float: right;
+    
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+   
+}
+
+nav ul li a:hover{
+    color: black;
+}
+
+.article {
+    margin-top: 20px;
+}
+
+#slider {
+    background-color: red;
+    width: 100%;
+    height: 360px;
+}
+
+#slider h1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: sans-serif;
+    color: wheat;
+    padding-top: 150px;
+}
+
+#haberler {
+    margin: 20px, 0px;
+    width: 100%;
+    height: 350px;
+}
+
+.haber {
+    width: 33%;
+    height: auto;
+    margin: 1;
+    padding: 1;
+    float: left;
+}
+
+.haberresim {
+    width: 100%;
+    height: 176px;
+    background-color: cadetblue;
+}
+
+.haberresim h1{
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    padding-top:70px ;
+   
+}
+
+.haber h1{
+    text-align: center;
+    
+}
+
+.haber p{
+    text-align: justify;
+    color: gold;
+}
+
+.haber a{
+    text-align: center;
+    float: right;
+    
+}
+
+.habermetin {
+    margin-bottom: 100px;
+}
+
+#duyurular {
+    width: 100%;
+    height: 300px;
+    margin: 0px;
+   
+
+}
+
+.duyurumetin {
+    width: 50%;
+    height: auto;
+    float: left;
+    
+    
+}
+
+.duyurumetin h1{
+    text-align: center;
+    font-size: 15px;
+    color: black;
+
+}
+
+.duyurumetin p{
+    text-align: center;
+
+}
+
+.duyururesim {
+    width: 50%;
+    height: auto;
+    background-color: aquamarine;
+    float: right;
+    
+}
+
+.duyururesim h1 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+footer{
+    width: 100%;
+    background-color: red;
+    height: 150px;
+}
+
+.footerbilgi {
+    width: 32%;
+    float: left;
+    height: auto;
+}
+
+.footerbilgi h1{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.footerbilgi p {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    
+}
